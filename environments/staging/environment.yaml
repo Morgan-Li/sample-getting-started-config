@@ -6,10 +6,8 @@ app:
   instances:
     # q: consider availability zones? 
 
-    
     # min number of instances. can be 0 for scale to 0. default to 1.
     min: 1
-    
     # max number of instances. defaults to 1 if min == 0, otherwise defaults to min
     # q: what's the overall limit?
     max: 2
@@ -43,7 +41,7 @@ app:
   #    arn: arn:aws:logs:region:account-id:destination:destination_name
   #    logGroup: myLogGroup
   #    region: us-east-1
-  version: "c018414a-4612-4f30-b800-5d0e92913328"
+  version: "22c3a170-4dea-403c-b57a-87b8291e7aaf"
 # probes
 # dynamic scaling
 # scaling to 0
