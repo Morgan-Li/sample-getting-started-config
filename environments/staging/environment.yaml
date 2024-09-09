@@ -41,7 +41,7 @@ app:
   #    arn: arn:aws:logs:region:account-id:destination:destination_name
   #    logGroup: myLogGroup
   #    region: us-east-1
-  version: "d40dd63e-d762-4cfb-93ec-d8755407b633"
+  version: "ed6ef5d5-0626-42b0-954a-a708ced5b432"
 # probes
 # dynamic scaling
 # scaling to 0
