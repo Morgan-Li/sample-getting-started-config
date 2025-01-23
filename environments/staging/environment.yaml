@@ -42,7 +42,7 @@ app:
   #    arn: arn:aws:logs:region:account-id:destination:destination_name
   #    logGroup: myLogGroup
   #    region: us-east-1
-  version: "3db73e89-05fb-4303-b0ef-9b7fffd94948"
+  version: "dbf7dfa2-505e-4d60-b7f5-182173826c65"
   endpoints: "public"
   
 # probes
